@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Untitled2.xsl"?>
+<Employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///D:/iti%209%20months%20scholarship%20program/labs/XML/lab1/Assignment%201/EmpXSD.xsd">
+<!--<!DOCTYPE Employees SYSTEM "Untitled4.dtd">-->
+	<Employee>
+		<Name>Sherin</Name>
+		<Phones>
+			<Phone Type="Home">035267898</Phone>
+			<Phone Type="Mobile">01023456748</Phone>
+		</Phones>
+		<Addresses>
+			<Address>
+				<Street>Street 1,</Street>
+				<Building_Number>64</Building_Number>
+				<Region>Region 1</Region>
+				<City>Alex</City>
+				<Country>Egypt</Country>
+			</Address>
+			<Address>
+				<Street>Street 2,</Street>
+				<Building_Number>64</Building_Number>
+				<Region>Region 2</Region>
+				<City>Cairo</City>
+				<Country>Egypt</Country>
+			</Address>
+		</Addresses>
+		<E_mail>sherin.reda15@gmail.com</E_mail>
+	</Employee>
+	<Employee>
+		<Name>Rewan</Name>
+		<Phones>
+			<Phone Type="Home">035267898</Phone>
+			<Phone Type="Mobile">01023456748</Phone>
+		</Phones>
+		<Addresses>
+			<Address>
+				<Street>Street 3,</Street>
+				<Building_Number>65</Building_Number>
+				<Region>Region 3</Region>
+				<City>Cairo</City>
+				<Country>Egypt</Country>
+			</Address>
+		</Addresses>
+		<E_mail>rewan.ali15@gmail.com</E_mail>
+	</Employee>
+</Employees>
